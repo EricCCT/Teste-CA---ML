@@ -1,0 +1,8 @@
+https://api.radaar.io/v1/users/settings/channels/callback/twitter-v2-self-owned
+
+consumer_key   - Gpcp5g2oMJDNuJTKCHIvSU45n 
+consumer_secret	- kvSZiewY6ouMDGIkvUIHJ9v9n0rsiVuXHxIdmDYUifdjS0lYEF 
+Bearer Token - AAAAAAAAAAAAAAAAAAAAABvUtwEAAAAANMTLJmVsxXTM3o0a3%2BFU4E89EFE%3DuD35qtK8im0vSE92uZnPioJ6athG04qpxymxGs3vmIyEwKg3Si
+
+Access Token - 1794041174673559552-oJDNFVejFRKCzwF2zbocTzpsz11atq
+Access Token Secret - TX790E6l60JhpYXqEz9m4NLcnmmHGYK6zAt0UtljoqNqI
